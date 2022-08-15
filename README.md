@@ -2,6 +2,6 @@
 
 Desafio de projeto GIT/GitHub (Bootcamp Santander)
 
-##Projetos feitos durante o Bootcamp
--**Links:**
+## Projetos feitos durante o Bootcamp
+- **Links:**
  -
